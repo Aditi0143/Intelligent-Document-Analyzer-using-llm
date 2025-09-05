@@ -1,0 +1,8 @@
+PyMuPDF
+pytesseract
+Pillow
+python-docx
+faiss-cpu
+torch
+transformers
+streamlit
